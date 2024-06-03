@@ -2,7 +2,7 @@
 
 # Nicole Lehmeyer
 
->**ABOUT ME:**
+## **ABOUT ME:**
 
 My name is **Nicole Lehmeyer**, and I am studying **software development** at **42 Adelaide**.
 
