@@ -1,3 +1,5 @@
+<img src="file:///Users/nicolelehmeyer/Desktop/GITHUB%20TEST.png" alt="test image"/"
+
 # Nicole Lehmeyer
 
 **ABOUT ME:**
