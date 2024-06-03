@@ -1,0 +1,16 @@
+# Nicole Lehmeyer
+
+**ABOUT ME:**
+My name is Nicole Lehmeyer, and I am studying software development at 42 Adelaide.
+I love all things to do with the real-world applications of technology!
+I have a background in human psychology and communication \(from my BA. Speech Pathology\) and hope to leverage these skills to bridge the gap between human factors and technology.
+
+**CURRENTLY:**
+Working on building my technical skillset
+
+**ULTIMATELY:**
+Would love to work in HSI/project management/software development/systems engineering
+
+**LOVING:**
+Fashion, Grimes, cats and trains
+
