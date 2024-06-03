@@ -1,4 +1,4 @@
-! [test image](./IMAGES/GITHUB TEST.png)
+![image](./TEST.png "IMAGE")
 
 # Nicole Lehmeyer
 
