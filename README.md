@@ -1,4 +1,4 @@
-![image](./banner.gif "IMAGE")
+![image](./gitbanner.gif "IMAGE")
 
 # Nicole Lehmeyer
 
