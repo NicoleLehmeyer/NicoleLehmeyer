@@ -9,8 +9,7 @@ My name is **Nicole Lehmeyer**, and I am studying **software development** at **
 I love all things to do with the real-world applications of technology!
 
 I have a background in human psychology and communication \(from my BA. Speech Pathology\) and hope to leverage these skills to bridge the gap between human factors and technology.
-
-
+<br>
 >**CURRENTLY:**
 
 Working on 42 Project **'Philosophers'**, incorporating concepts such as **threads, mutexes, and concurrent programming**.
