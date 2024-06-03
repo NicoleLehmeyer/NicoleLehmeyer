@@ -1,4 +1,4 @@
-![image](./profile_banner_image.mp4 "IMAGE")
+![image](./banner.gif "IMAGE")
 
 # Nicole Lehmeyer
 
