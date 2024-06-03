@@ -1,4 +1,4 @@
-![image](./TEST.png "IMAGE")
+![image](./BETTER.png "IMAGE")
 
 # Nicole Lehmeyer
 
