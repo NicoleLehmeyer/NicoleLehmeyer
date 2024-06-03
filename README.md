@@ -1,4 +1,4 @@
-[test image](file:///Users/nicolelehmeyer/Desktop/GITHUB%20TEST.png)
+![test image](IMAGES/GITHUB TEST.png)
 
 # Nicole Lehmeyer
 
