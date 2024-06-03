@@ -23,4 +23,5 @@ Fashion, Grimes, cats and trains
 **CONTACT ME:**
 
 LinkedIn: [nicole-lehmeyer](https://www.linkedin.com/in/nicole-lehmeyer/)
-Discord:  [nicole.lehmeyer](discordapp.com/users/1107446949344448543/)
+
+Discord:  [nicole.lehmeyer](https://discordapp.com/users/1107446949344448543/)
