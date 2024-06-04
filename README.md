@@ -33,7 +33,7 @@ Fashion, Grimes, cats and trains
 
 ---
 <p align="center">
-Made by NicoleLehmeyer: nlehmeye@student.42adel.org.au | LinkedIn: <a href="[url](https://www.linkedin.com/in/nicole-lehmeyer/)">nicole-lehmeyer</a> | <a href="[url](https://discordapp.com/users/1107446949344448543/)">nicole.lehmeyer</a>
+Made by NicoleLehmeyer: nlehmeye@student.42adel.org.au | LinkedIn: <a href="https://www.linkedin.com/in/nicole-lehmeyer/">nicole-lehmeyer</a> | <a href="https://discordapp.com/users/1107446949344448543/">nicole.lehmeyer</a>
 </p>
 
 <p align="center">
