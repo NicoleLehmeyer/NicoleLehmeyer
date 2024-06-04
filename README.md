@@ -32,6 +32,9 @@ Fashion, Grimes, cats and trains
 **Discord:**  [nicole.lehmeyer](https://discordapp.com/users/1107446949344448543/)
 
 ---
-Made by NicoleLehmeyer: nlehmeye@student.42adel.org.au | LinkedIn: [nicole-lehmeyer](https://www.linkedin.com/in/nicole-lehmeyer/) | Discord: [nicole.lehmeyer](https://discordapp.com/users/1107446949344448543/)<p align="center">
-  <img src="./images/coder_hampster.png" alt="hampster" style="width:150px;"/>
+<p align="center">
+Made by NicoleLehmeyer: nlehmeye@student.42adel.org.au | LinkedIn: [nicole-lehmeyer](https://www.linkedin.com/in/nicole-lehmeyer/) | Discord: [nicole.lehmeyer](https://discordapp.com/users/1107446949344448543/)
+</p>
+<p align="center">
+  <img src="./images/coder_hampster.png" alt="hampster" style="width:100px;"/>
 </p>
