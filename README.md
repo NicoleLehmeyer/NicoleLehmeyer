@@ -6,7 +6,7 @@
 
 ## **About Me:**
 
-My name is **Nicole Lehmeyer**, and I am studying **software development** at [**42 Adelaide**] (https://www.42network.org/).
+My name is **Nicole Lehmeyer**, and I am studying **software development** at **[42 Adelaide] (https://www.42network.org/)**.
 
 I love all things to do with the real-world applications of technology!
 
