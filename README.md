@@ -19,7 +19,7 @@ Working on 42 Project **'Philosophers'**, incorporating concepts such as **threa
 
 ## Ultimately:
 
-Would love to work in **HSI/project management/software development/systems engineering.**
+Would love to work in **project management/software development/HSI.**
 
 
 ## Loving:
