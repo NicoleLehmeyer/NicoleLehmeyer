@@ -14,7 +14,7 @@ I have a background in human psychology and communication \(from my BA. Speech P
 
 ## Currently:
 
-Working on 42 Project **'Philosophers'**, incorporating concepts such as **threads, mutexes, and concurrent programming**.
+Working on **42 Exams, 42 C++ Modules and 42 Project'NetPractice'(networking).**
 
 
 ## Ultimately:
