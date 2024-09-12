@@ -19,7 +19,7 @@ Working on **42 Exams**, 42 **C++ Modules** and 42 Project **'NetPractice'** (ne
 
 ## Ultimately:
 
-Would love to work in **project management/software development/HSI.**
+Would love to work in **digital transformation/project management/software development/HSI.**
 
 
 ## Loving:
