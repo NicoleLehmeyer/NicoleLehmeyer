@@ -14,7 +14,7 @@ I have a background in human psychology and communication \(from my BA. Speech P
 
 ## Currently:
 
-Working on **42 Exams**, 42 **C++ Modules** and 42 Project **'NetPractice'** (networking).
+Working on **MiniRT (Ray Tracer Program)** and 42 **C++ Modules**.
 
 
 ## Ultimately:
