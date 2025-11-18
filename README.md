@@ -7,10 +7,10 @@
 # Nicole Lehmeyer
 
 **TLDR:** <br>
-**Application Specialist** for Healthcare Billing & Revenue Collection Software<br>
-TS | JS | SQL | HTML | C | C++ | Linux | Unix | VMs <br>
-AWS Cloud Practitioner | 42 Common Core Graduate <br>
-Co-Founder of Dev_Climb <br>
+  • **Application Specialist** for Healthcare Billing & Revenue Collection Software<br>
+  • TS | JS | SQL | HTML | C | C++ | Linux | Unix | VMs <br>
+  • AWS Cloud Practitioner | 42 Common Core Graduate <br>
+  • Co-Founder of Dev_Climb <br>
 
 ## **About Me:**
 
