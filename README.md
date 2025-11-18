@@ -6,6 +6,9 @@
 
 # Nicole Lehmeyer
 
+**In Short:**
+TS | JS | SQL | HTML | C | C++ | Linux | Unix | VM | AWS Cloud Practitioner | 42 Common Core Graduate
+
 ## **About Me:**
 
 My name is **Nicole Lehmeyer**, and I am an **Application Specialist** working on the implementation and optimisation of healthcare billing and revenue collection systems, enhancing financial workflows and operational efficiency for healthcare organisations.
