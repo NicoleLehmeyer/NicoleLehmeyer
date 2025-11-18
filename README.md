@@ -6,21 +6,23 @@
 
 ## **About Me:**
 
-My name is **Nicole Lehmeyer**, and I am studying **software development** at **[42 Adelaide](https://www.42network.org/)**.
+My name is **Nicole Lehmeyer**, and I am an **application specialist** specialising in the implementation and optimisation of healthcare billing and revenue collection systems, enhancing financial workflows and operational efficiency for healthcare organisations.
 
-I love all things to do with the real-world applications of technology!
+I am a graduate of the Common Core of **[42](https://www.42network.org/)** (BA. Software Development), an intensive and highly selective software engineering program known for its challenging, project-based curriculum (many of which can be found here).
 
-I have a background in human psychology and communication \(from my BA. Speech Pathology\) and hope to leverage these skills to bridge the gap between human factors and technology.
-
-## Currently:
-
-Working on **MiniRT (Ray Tracer Program)** and 42 **C++ Modules**.
+I also have a background in human psychology and communication \(from my BA. Speech Pathology\) and have leveraged my mixed skillset in health, people and technology.
 
 
 ## Ultimately:
 
-Would love to work in **digital transformation/project management/software development/HSI.**
+I am fascinated by the way society and systems evolve in alignment with technological advancements, particularly within the financial world, where digital solutions have democratised finance for the everyday individual. I would love to apply my skills here more one day!
 
+## Side Quests:
+
+Indoor bouldering.
+Surfing.
+Dance.
+**[Dev_Climb](https://devclimb.org/)** my business for new-wave networking - connecting STEM professionals and students in a bouldering gym. --> Nominated for 2026 APAC Enterprise Award!
 
 ## Loving:
 
@@ -31,11 +33,9 @@ Fashion, Grimes, cats and trains
 
 **LinkedIn:** [nicole-lehmeyer](https://www.linkedin.com/in/nicole-lehmeyer/)
 
-**Discord:**  [nicole.lehmeyer](https://discordapp.com/users/1107446949344448543/)
-
 ---
 <p align="center">
-Made by NicoleLehmeyer: <a href=mailto:"nlehmeye@student.42adel.org.au">nlehmeye@student.42adel.org.au</a> | LinkedIn: <a href="https://www.linkedin.com/in/nicole-lehmeyer/">nicole-lehmeyer</a> | Discord: <a href="https://discordapp.com/users/1107446949344448543/">nicole.lehmeyer</a>
+Made by NicoleLehmeyer: <a href=mailto:"nicole.lehmeyer@icloud.com">nicole.lehmeyer@icloud.com</a> | LinkedIn: <a href="https://www.linkedin.com/in/nicole-lehmeyer/">nicole-lehmeyer</a> | Discord: <a href="https://discordapp.com/users/1107446949344448543/">nicole.lehmeyer</a>
 </p>
 
 <p align="center">
