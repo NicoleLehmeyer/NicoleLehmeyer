@@ -6,7 +6,7 @@
 
 ## **About Me:**
 
-My name is **Nicole Lehmeyer**, and I am an **application specialist** specialising in the implementation and optimisation of healthcare billing and revenue collection systems, enhancing financial workflows and operational efficiency for healthcare organisations.
+My name is **Nicole Lehmeyer**, and I am an **application specialist** working on the implementation and optimisation of healthcare billing and revenue collection systems, enhancing financial workflows and operational efficiency for healthcare organisations.
 
 I am a graduate of the Common Core of **[42](https://www.42network.org/)** (BA. Software Development), an intensive and highly selective software engineering program known for its challenging, project-based curriculum (many of which can be found here).
 
@@ -19,9 +19,9 @@ I am fascinated by the way society and systems evolve in alignment with technolo
 
 ## Side Quests:
 
-Indoor bouldering.
-Surfing.
-Dance.
+Indoor bouldering. <br>
+Surfing.<br>
+Dance.<br>
 **[Dev_Climb](https://devclimb.org/)** my business for new-wave networking - connecting STEM professionals and students in a bouldering gym. --> Nominated for 2026 APAC Enterprise Award!
 
 ## Loving:
