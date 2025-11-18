@@ -1,4 +1,4 @@
-<p align="center">
+*/<p align="center">/*
   <img src="https://github.com/NicoleLehmeyer/NicoleLehmeyer/blob/main/images/gitbanner.gif" alt="banner"/>
 </p>
 
